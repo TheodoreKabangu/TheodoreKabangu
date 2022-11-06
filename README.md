@@ -4,10 +4,6 @@
 - Gender                 : Male
 - Birthday               : April 6, 1993
 - Nationality            : Congo-Kinshasa
-- 
-- 👀 I’m interested in Machine Learning, Data science and Software Engineering
-- 🌱 I’m currently learning Python, Computer vision and Data analysis
-- 💞️ I’m looking to collaborate on any project related to the above fields of my interest
 
 ## Contacts
 ### 📫 How to reach me ?
@@ -20,7 +16,17 @@
 - [LinkedIn](https://www.linkedin.com/in/th%C3%A9odore-kabangu-nkashama-05bb03232/)
 - [Twitter](https://twitter.com/YvesTheodore3)
 
+# Interest majors
+- I’m interested in **Machine Learning**, **Data science** and **Software Engineering**
+- I’m currently learning **Computer vision** and **Data analysis**
+- I’m looking to collaborate on any project related to the above fields of my interest
+
 # Experience
+## Tools
+- Python
+- C# (.Net Core and Visual Studio)
+- SQL (MySQL and SQL Server)
+
 ## Freelance in Software engineering
 1. Product : **Sumedco Soft Manager**
    > **Details**
