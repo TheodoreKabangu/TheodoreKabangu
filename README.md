@@ -25,10 +25,10 @@
 1. Product : **Sumedco Soft Manager**
    > **Details**
    > This app is intended to manage a hospital, especially for the following domains:
-   > **Patients** & **Subscribers** from reception through cash desk, nursing room up to the consult by a doctor 
-   > **Medecines stock** from purchase order up to supplies and distribution
-   > **Accountancy** (as by OHADA system)
-   > **Activity monitoring** used by the Head.
+   > - **Patients** & **Subscribers** from reception through cash desk, nursing room up to the consult by a doctor 
+   > - **Medecines stock** from purchase order up to supplies and distribution
+   > - **Accountancy** (as by OHADA system)
+   > - **Activity monitoring** used by the Head.
    > 
    > Purchased by **Polyclinique SUMEDCO**
    > Located in DRC, Kasai oriental, Mbujimayi, 243844289583
@@ -53,41 +53,41 @@
    > Faculty of Applied Sciences, University of Mbujimayi
 
 ## Assistant lecturer
-From May 2018 up to 2022
-Computing Departement
-University of Mbujimayi
+> From May 2018 up to 2022
+> Computing Departement
+> University of Mbujimayi
 
 # Education
 ## Data analyst nanogedree
-[Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
-Skills
+### [Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+### Skills
 - Asking question on data
 - Data collection - Web scraping
 - Data wrangling
 - Exploratory data analysis
 - Drawing conclusion
 - Communication results
-Tools : Python, SQL, Pandas, Numpy, Matplotlib, Jupiter Notebook, Beautifulsoup, Requests
+### Tools : Python, SQL, Pandas, Numpy, Matplotlib, Jupiter Notebook, Beautifulsoup, Requests
 
 ## Machine Learning nanogedree
-[Coursera](https://www.coursera.org/learn/machine-learning-course/home/welcome)
-Skills
+### [Coursera](https://www.coursera.org/learn/machine-learning-course/home/welcome)
+### Skills
 - Supervised learning
 - Unsupervised learning
 - Recommender systems
-Tools : Octave/Matlab
+### Tools : Octave/Matlab
 
 ## Multivariate data analysis
-[FUN-MOOC](https://lms.fun-mooc.fr/courses/course-v1:agrocampusouest+40001+session08/)
-Skills
+### [FUN-MOOC](https://lms.fun-mooc.fr/courses/course-v1:agrocampusouest+40001+session08/)
+### Skills
 - Principal component analysis
 - Factor analysis
 - Hierachical classification
-Tools : R and R Studio
+### Tools : R and R Studio
 
 ## Computing Bachelor Degree
-[University of Mbujimayi](https://um.ac.cd/facultes/sciences-appliquees/informatique/)
-Skills
+### [University of Mbujimayi](https://um.ac.cd/facultes/sciences-appliquees/informatique/)
+### Skills
 - Programming
 - Data base management
 - Networking
