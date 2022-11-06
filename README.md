@@ -51,7 +51,7 @@
    > of a circular break of soil in order to maintain slope stability.
    > 
    > Faculty of Applied Sciences, University of Mbujimayi
-4. Product : **Extraction optimuizer**
+4. Product : **Extraction optimizer**
    > **Details**
    > This App is used as a pedagogical tool for the optimization
    > of rock extraction to uniformize blocks of the rock during the explosion process.
