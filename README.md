@@ -26,6 +26,10 @@
 - Python
 - C# (.Net Core and Visual Studio)
 - SQL (MySQL and SQL Server)
+- Git
+- Office Automation tools (MS Excel, PowerPoint, Access)
+- Numpy, Pandas, Matplotlib, SeaBorn
+- MySQL, SQL Server
 
 ## Freelance in Software engineering
 1. Product : **Sumedco Soft Manager**
